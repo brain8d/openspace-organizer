@@ -23,9 +23,10 @@ The default open space plan is a room of 6 tables with 4 chairs each.
 Further features are under development, any additional features will be available under a different branch 
 
 The program takes as input the filepath of an excel document (.xlsx) with a list of 24 people in the first column.
-'''
+
+```
 /USER/LOCATION/YOUR_XLSX_FILE_HERE.xlsx
-'''
+```
 
 * example of excel file with names and random assignment to tables
 ![Open space organizer example](https://github.com/brain8d/openspace-organizer/assets/153182255/6cb2196e-31be-4b76-85fa-5741f21a6022)
