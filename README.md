@@ -1,6 +1,6 @@
-### Open space organizer
+# Open space organizer
 
-# Description
+### Description
 This is an open space organizer project.
 - Assign colleagues/persons randomly to a table in a room
 - This way you can get to know your fellow workers better
@@ -10,11 +10,11 @@ The original project idea can be found here:
 https://github.com/brain8d/BXL-Bouman-7/tree/main/projects/01-openspace-organizer
 
 
-# Installation
+### Installation
 To install the open space organizer, simply download this repository and run the main.py file
 Tested on Python 3.12
 
-# Usage
+### Usage
 The open space oragnizer will allow you to create a seating arrangement for you and your colleagues.
 Assignment to different tables will be random. This can be an excellent way to get to know your fellow colleagues better!
 
