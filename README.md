@@ -15,16 +15,19 @@ To install the open space organizer, simply download this repository and run the
 Tested on Python 3.12
 
 ### Usage
-The open space oragnizer will allow you to create a seating arrangement for you and your colleagues.
-Assignment to different tables will be random. This can be an excellent way to get to know your fellow colleagues better!
+The open space organizer will allow you to create a seating arrangement for you and your colleagues.
+Assignment to different tables will be random. **This can be an excellent way to get to know your fellow colleagues better!**
 
-The default open space plan is a room of 6 tables with 4 chairs each. Further features are under development.
-The nice-to-have features version will be available under a different branch when finished
+The default open space plan is a room of 6 tables with 4 chairs each. 
 
-The program takes as input the filepath of  an excel document (.xlsx)
-with a list of 24 people in the first column.
+Further features are under development, any additional features will be available under a different branch 
 
-* example of excel file with names and random assignment to tables*
+The program takes as input the filepath of an excel document (.xlsx) with a list of 24 people in the first column.
+'''
+/USER/LOCATION/YOUR_XLSX_FILE_HERE.xlsx
+'''
+
+* example of excel file with names and random assignment to tables
 ![Open space organizer example](https://github.com/brain8d/openspace-organizer/assets/153182255/6cb2196e-31be-4b76-85fa-5741f21a6022)
 
 
