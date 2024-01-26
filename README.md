@@ -24,6 +24,7 @@ The nice-to-have features version will be available under a different branch whe
 The program takes as input the filepath of  an excel document (.xlsx)
 with a list of 24 people in the first column.
 
+* example of excel file with names and random assignment to tables*
 ![Open space organizer example](https://github.com/brain8d/openspace-organizer/assets/153182255/6cb2196e-31be-4b76-85fa-5741f21a6022)
 
 
