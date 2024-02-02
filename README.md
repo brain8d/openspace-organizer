@@ -6,10 +6,6 @@ This is an open space organizer project.
 - This way you can get to know your fellow workers better
 - Python-based
 
-The original project idea can be found here:
-https://github.com/brain8d/BXL-Bouman-7/tree/main/projects/01-openspace-organizer
-
-
 ### Installation
 To install the open space organizer, simply download this repository and run the main.py file
 Tested on Python 3.12
