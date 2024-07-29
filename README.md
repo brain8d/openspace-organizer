@@ -7,12 +7,11 @@ This is an open space organizer project.
 - Python-based
 
 ### Installation
-To install the open space organizer simply follow these steps:
+To install the open space organizer:
 
 ```git clone https://github.com/brain8d/openspace-organizer.git```
 
 Run
-
 ```main.py``` 
 
 
@@ -42,3 +41,5 @@ Options:
 3 number of people in room
 ```
 
+### Feedback?
+If you would like to see any additional functionality let me know.
